@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width:767px) and (max-width:992px){
+    
+}
+
+@media screen and (max-width:767px) {
+    
+}
+
+
+.body{
+    width: 100%;
+    height: auto;
+    min-height: 50vh;
+    padding-top: 5rem;
+}
+
+.container{
+    width: 1000px;
+    height: 55vh;
+}
+
+
+.project1 img{
+    width: 315px;
+    height: 315px;
+}
+
+.project2 img{
+    width: 315px;
+    height: 315px;
+}
+
+.project3 img{
+    width: 315px;
+    height: 315px;
+}
+
+.container2{
+    width: 1310px;
+    height: 55vh;
+}
+
+.project4 img{
+    width: 315px;
+    height: 315px;
+}
+
+.project5 img{
+    width: 315px;
+    height: 315px;
+}
+
+.project6 img{
+    width: 315px;
+    height: 315px;
+}

@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width:767px) and (max-width:992px){
+    
+}
+
+@media screen and (max-width:767px) {
+    
+}
+
+
+.parent{
+    width: 100%;
+    height: 624px;
+}
+
+.skills{
+    width: 80%;
+    height: 328px;
+}
+
+.content1 img{
+  height: 130px;
+  width: 130px;
+}
+
+.par{
+  width: 249.9px;
+  white-space: wrap;
+}
+
+
+.content2 img{
+    height: 130px;
+    width: 130px;
+}
+
+.content3 img{
+    height: 130px;
+    width: 130px;
+}

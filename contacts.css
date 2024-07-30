@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width:767px) and (max-width:992px){
+    
+}
+
+@media screen and (max-width:767px) {
+    
+}
+
+
+
+.body{
+    width: 100%;
+    height: 90vh;
+}
+
+.container{
+    width: 1080px;
+    height: 495px;
+
+}
+
+.work{
+    width: 360px;
+    height: 286px;
+
+}
+
+.sign{
+    width: 600px;
+    height: 495px;
+
+}
+
+.par{
+    width: 360px;
+    height: 108px;
+    white-space: wrap;
+    padding-top: 2rem;
+}
+
+.name{
+    width: 530px;
+    height: 69px;
+    margin-top: 1rem;
+    background-color: rgb(234, 234, 234);
+}
+
+.message{
+    width: 530px;
+    height: 231px;
+    margin-top: 1rem;
+   background-color: rgb(234, 234, 234); 
+}
+button{
+    width: 199px;
+    height: 66px;
+}
